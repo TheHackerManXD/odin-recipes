@@ -1,0 +1,28 @@
+/* Note to beginner self: 
+
+CSS Cascading order:
+High to low:
+1. Inline style style=""
+2. ID's #element
+3. class .element
+4. attributes [element]
+5. pseudo classes :hover
+6.pseudo-elements ::before
+7.elements element
+*/
+
+body{
+  font-family: SourceSansPro,Helvetica,sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  color: #d54215;
+}
+
+img{
+  height: 100;
+  width: auto;
+}
+

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" href="https://i1.sndcdn.com/artworks-000015364470-671i8t-t500x500.jpg">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+
+<body>
+  <h1 style="color:blue; background-color: red">HA</h1>
+  <h2>HA</h2>
+  <h3>HA</h3>
+  <h4>HA</h4>
+  <P>HA</P>
+  <pre>
+  <b>HAHAHAHAHAHA</b> 
+  <STRONG>HAHAHAHAHAHA</STRONG>
+  <em>HAHAHAHAHAHAHAHA</em>
+    HAHAHAHAH<mark>HAHAHAHAHA</mark>
+    <del>HAHAHAHAHAHAHA</del>
+    <ins>HAHAHAHAHAHA</ins>
+    <small>HAHAHAHAHAHAHA</small>
+    HAHAHAHA<sub>HAHAHAHAHAHA</sub>
+    HAHAHAHA<sup>HAHAHAHAHA</sup>
+    <a href="/go" target="blank">HAHAHAHAHA</a>
+  <a href="mailto:vengeanceboy07@gmail.com">Send me a HAHAHAHAHAHAHA</a>
+    <table>
+      <tr>
+        <th>HA</th>
+        <th>HAHA</th>
+        <th>HAHAHA</th>
+      </tr>
+
+      <tr>
+        <td>HAHAHA</td>
+        <td>HAHAHA</td>
+        <td>HAHAHA</td>
+      </tr>
+    </table>
+
+    <ul>
+      <li>apple</li>
+      <li>banana</li>
+      <li>orange</li>
+    </ul>
+
+     <ol>
+      <li>apple</li>
+      <li>banana</li>
+      <li>orange</li>
+    </ol>
+
+    <dl>
+      <dt>Haha?</dt>
+      <dd>HAHAHAHAHA!</dd>
+    </dl>
+  </pre>
+
+  <h1 id="welcome">HAHA</h1>
+  <h1 class="heading">HAHA</h1>
+  <p class="heading">HAHA</p>
+  <b class="heading">HAHA</b>
+  <i class="material-icons">cloud</i>
+  <i class="material-icons">computer</i>
+  <i class="material-icons">traffic</i>
+  <br>
+  <br>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+    </tr>
+    <tr>
+      <td>John</td>
+      <td>19</td>
+    </tr>
+  </table>
+
+  <h1>
+    <b>fuck you</b>
+    <b>bitch</b>
+    <p>
+      <b>bitch</b>
+    </p>
+  </h1>
+  <b>bitch</b>
+  <b>bitch</b>
+  <br>
+  <div class="dropdown">
+    <button class="dropdownbutton">Dropdown Button</button>
+    <div class="dropdown-menu">
+      <a href="#">List</a>
+      <a href="#">List</a>
+      <a href="#">List</a>
+      <a href="#">List</a>
+    </div>
+  </div>
+
+  <div class=test>
+    <p>Hehe</p>
+  </div>
+  <pre>HAHAHAHAHAHAHA
+    HAHAHAHAHAHA
+  HAHAHAHAHAHAHA
+  </pre>
+
+  <!--   <iframe src="https://twitter.com" height="300" width="400">  -->
+  <hr>
+
+
+  <img title="HAHAHA"
+    src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/307758901_128916446563880_1272725628725680581_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=EIrJWdHPi34AX_5-sep&_nc_ht=scontent.fmnl9-4.fna&oh=00_AfCxi3PgIQTZ2YBQj5TGLaQbpDUZq5C9Wdwnq2_GGMnkLg&oe=63B0103D"
+    height="200" width="600" alt="HAHAHAHAHA">
+</body>
+
+</html>
